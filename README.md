@@ -8,6 +8,7 @@ IT パスポート学習用（単語帳・メモ）と、Zenn 記事・本用フ
 it-passport-exam/
 ├── vocabulary/          # 単語帳
 │   ├── strategy/        # ストラテジ系
+│   │   └── management-and-organization/  # 経営・組織論
 │   ├── management/      # マネジメント系
 │   └── technology/     # テクノロジ系
 ├── notes/               # まとめノート・下書き
